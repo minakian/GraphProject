@@ -27,4 +27,6 @@ To verify copy and paste the coordinate string into google as follows:
 `https://www.google.com/maps/dir/{paste coordinate string here}/@{pick a point pair to paste here},16z`  
 replace the {} sections accordingly  
 
+<img src="images/google.png" width="600" height="450" />
+
 new map areas can be exported from Open Street Map https://www.openstreetmap.org/ the "map.osm" file should be placed in the upper directory of GraphProject.
