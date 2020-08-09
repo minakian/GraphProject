@@ -30,3 +30,9 @@ replace the {} sections accordingly
 <img src="images/google.png" width="600" height="450" />
 
 new map areas can be exported from Open Street Map https://www.openstreetmap.org/ the "map.osm" file should be placed in the upper directory of GraphProject.
+
+Remaining areas of work on this project:
+1. Implement walking directions
+2. Integrate congestion feature, such as the way google does traffic
+3. Draw the directions on an actual map. The Udacity project uses IO2D for drawing the map from the xml data
+4. Plan 3 different routes to give the user options
